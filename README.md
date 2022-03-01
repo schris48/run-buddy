@@ -12,3 +12,5 @@ https://schris48.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sharon Christensen
+
+### ©️2019 Run Buddy, Inc 
